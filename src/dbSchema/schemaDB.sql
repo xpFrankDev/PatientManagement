@@ -9,6 +9,8 @@
  Target Server Version : 100431 (10.4.31-MariaDB)
  File Encoding         : 65001
 
+Contains db schema and SP's for the complete functioning of the system
+
 */
 
 SET NAMES utf8mb4;
